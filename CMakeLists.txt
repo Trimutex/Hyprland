@@ -117,6 +117,7 @@ pkg_check_modules(
   wayland-server>=1.22.90
   wayland-protocols
   cairo
+  lcms2
   pango
   pangocairo
   pixman-1
