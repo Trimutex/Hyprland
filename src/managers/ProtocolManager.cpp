@@ -47,6 +47,7 @@
 #include "../protocols/SinglePixel.hpp"
 #include "../protocols/SecurityContext.hpp"
 #include "../protocols/CTMControl.hpp"
+#include "../protocols/ColorManagement.hpp"
 
 #include "../protocols/core/Seat.hpp"
 #include "../protocols/core/DataDevice.hpp"
